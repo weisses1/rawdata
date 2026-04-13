@@ -1,0 +1,526 @@
+CESA,DISTRICT_NAME,GROUP_BY,GROUP_BY_VALUE,COHORT,STUDENT_COUNT,EXPECTED_COHORT,TEST_SUBJECT,Composite_Score
+2.0,Madison Metropolitan,All Students,All Students,2020,1643,2020.0,ELA,2.044550378440547
+2.0,Madison Metropolitan,All Students,All Students,2020,1643,2020.0,Mathematics,1.9588306158860993
+2.0,Madison Metropolitan,All Students,All Students,2020,1643,2020.0,Science,2.2200588068450515
+2.0,Madison Metropolitan,All Students,All Students,2020,1643,2020.0,Social Studies,2.267299114289218
+2.0,Madison Metropolitan,All Students,All Students,2021,1552,2021.0,ELA,2.054208630486967
+2.0,Madison Metropolitan,All Students,All Students,2021,1552,2021.0,Mathematics,1.985684150460952
+2.0,Madison Metropolitan,All Students,All Students,2021,1552,2021.0,Science,2.23525028143129
+2.0,Madison Metropolitan,All Students,All Students,2021,1552,2021.0,Social Studies,2.2898887871662787
+2.0,Madison Metropolitan,All Students,All Students,2022,1645,2022.0,ELA,2.0307831971609045
+2.0,Madison Metropolitan,All Students,All Students,2022,1645,2022.0,Mathematics,1.977033643803642
+2.0,Madison Metropolitan,All Students,All Students,2022,1645,2022.0,Science,2.2753671842197734
+2.0,Madison Metropolitan,All Students,All Students,2022,1645,2022.0,Social Studies,2.3455638678820954
+2.0,Madison Metropolitan,All Students,All Students,2023,1622,2023.0,ELA,2.000791778620169
+2.0,Madison Metropolitan,All Students,All Students,2023,1622,2023.0,Mathematics,1.9618999216824973
+2.0,Madison Metropolitan,All Students,All Students,2023,1622,2023.0,Science,2.341079121727118
+2.0,Madison Metropolitan,All Students,All Students,2023,1622,2023.0,Social Studies,2.292619814036072
+2.0,Madison Metropolitan,All Students,All Students,2025,1583,2025.0,ELA,1.9853191087138893
+2.0,Madison Metropolitan,All Students,All Students,2025,1583,2025.0,Mathematics,1.759984572109177
+2.0,Madison Metropolitan,All Students,All Students,2025,1583,2025.0,Science,2.2227055518468553
+2.0,Madison Metropolitan,All Students,All Students,2025,1583,2025.0,Social Studies,2.2164700482961788
+2.0,Madison Metropolitan,Disability Status,SwD,2020,164,2020.0,ELA,1.356633156244018
+2.0,Madison Metropolitan,Disability Status,SwD,2020,164,2020.0,Mathematics,1.3600480719122927
+2.0,Madison Metropolitan,Disability Status,SwD,2020,164,2020.0,Science,1.528222140178662
+2.0,Madison Metropolitan,Disability Status,SwD,2020,164,2020.0,Social Studies,1.5038860512468504
+2.0,Madison Metropolitan,Disability Status,SwD,2021,171,2021.0,ELA,1.4324696418024754
+2.0,Madison Metropolitan,Disability Status,SwD,2021,171,2021.0,Mathematics,1.4116403811559224
+2.0,Madison Metropolitan,Disability Status,SwD,2021,171,2021.0,Science,1.6117904250939405
+2.0,Madison Metropolitan,Disability Status,SwD,2021,171,2021.0,Social Studies,1.5757371470143076
+2.0,Madison Metropolitan,Disability Status,SwD,2022,152,2022.0,ELA,1.3236500563706446
+2.0,Madison Metropolitan,Disability Status,SwD,2022,152,2022.0,Mathematics,1.2881262129301345
+2.0,Madison Metropolitan,Disability Status,SwD,2022,152,2022.0,Science,1.4730164567974164
+2.0,Madison Metropolitan,Disability Status,SwD,2022,152,2022.0,Social Studies,1.4551835759556349
+2.0,Madison Metropolitan,Disability Status,SwD,2023,142,2023.0,ELA,1.339172831267693
+2.0,Madison Metropolitan,Disability Status,SwD,2023,142,2023.0,Mathematics,1.3789366951131656
+2.0,Madison Metropolitan,Disability Status,SwD,2023,142,2023.0,Science,1.634743447127348
+2.0,Madison Metropolitan,Disability Status,SwD,2023,142,2023.0,Social Studies,1.5366957166422408
+2.0,Madison Metropolitan,Disability Status,SwD,2025,79,2025.0,ELA,1.392063492063492
+2.0,Madison Metropolitan,Disability Status,SwD,2025,79,2025.0,Mathematics,1.2818686868686868
+2.0,Madison Metropolitan,Disability Status,SwD,2025,79,2025.0,Science,1.5425
+2.0,Madison Metropolitan,Disability Status,SwD,2025,79,2025.0,Social Studies,1.4986111111111111
+2.0,Madison Metropolitan,Disability Status,SwoD,2020,1479,2020.0,ELA,2.148090107866643
+2.0,Madison Metropolitan,Disability Status,SwoD,2020,1479,2020.0,Mathematics,2.0555882147125857
+2.0,Madison Metropolitan,Disability Status,SwoD,2020,1479,2020.0,Science,2.339819277140374
+2.0,Madison Metropolitan,Disability Status,SwoD,2020,1479,2020.0,Social Studies,2.3930290791372215
+2.0,Madison Metropolitan,Disability Status,SwoD,2021,1381,2021.0,ELA,2.1776870758805362
+2.0,Madison Metropolitan,Disability Status,SwoD,2021,1381,2021.0,Mathematics,2.1004029180472683
+2.0,Madison Metropolitan,Disability Status,SwoD,2021,1381,2021.0,Science,2.3825430070320124
+2.0,Madison Metropolitan,Disability Status,SwoD,2021,1381,2021.0,Social Studies,2.4428195221366176
+2.0,Madison Metropolitan,Disability Status,SwoD,2022,1492,2022.0,ELA,2.16170158201349
+2.0,Madison Metropolitan,Disability Status,SwoD,2022,1492,2022.0,Mathematics,2.109703186886319
+2.0,Madison Metropolitan,Disability Status,SwoD,2022,1492,2022.0,Science,2.4249404356050595
+2.0,Madison Metropolitan,Disability Status,SwoD,2022,1492,2022.0,Social Studies,2.5164496383796497
+2.0,Madison Metropolitan,Disability Status,SwoD,2023,1480,2023.0,ELA,2.1555234319115537
+2.0,Madison Metropolitan,Disability Status,SwoD,2023,1480,2023.0,Mathematics,2.1244432881875475
+2.0,Madison Metropolitan,Disability Status,SwoD,2023,1480,2023.0,Science,2.4877392138679215
+2.0,Madison Metropolitan,Disability Status,SwoD,2023,1480,2023.0,Social Studies,2.4312811682144724
+2.0,Madison Metropolitan,Disability Status,SwoD,2025,1504,2025.0,ELA,1.9683529860040287
+2.0,Madison Metropolitan,Disability Status,SwoD,2025,1504,2025.0,Mathematics,1.7653743268763797
+2.0,Madison Metropolitan,Disability Status,SwoD,2025,1504,2025.0,Science,2.1775085853360214
+2.0,Madison Metropolitan,Disability Status,SwoD,2025,1504,2025.0,Social Studies,2.2218872482775254
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2020,579,2020.0,ELA,1.6289276198933897
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2020,579,2020.0,Mathematics,1.5246325649600037
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2020,579,2020.0,Science,1.7461709451955294
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2020,579,2020.0,Social Studies,1.735499522505804
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2021,528,2021.0,ELA,1.586484771751551
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2021,528,2021.0,Mathematics,1.5665962931717343
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2021,528,2021.0,Science,1.7919417944400209
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2021,528,2021.0,Social Studies,1.7542787978989345
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2022,519,2022.0,ELA,1.5853701063724932
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2022,519,2022.0,Mathematics,1.5726140114527416
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2022,519,2022.0,Science,1.8504072952490336
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2022,519,2022.0,Social Studies,1.8559983227530072
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2023,594,2023.0,ELA,1.592767578343263
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2023,594,2023.0,Mathematics,1.5501554919167144
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2023,594,2023.0,Science,1.8253196798091336
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2023,594,2023.0,Social Studies,1.8082404069517806
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2025,653,2025.0,ELA,1.5951282492219863
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2025,653,2025.0,Mathematics,1.3836907282574253
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2025,653,2025.0,Science,1.7802946771838049
+2.0,Madison Metropolitan,Economic Status,Econ Disadv,2025,653,2025.0,Social Studies,1.7596526431085255
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2020,1064,2020.0,ELA,2.486792016574844
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2020,1064,2020.0,Mathematics,2.378756172217501
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2020,1064,2020.0,Science,2.694741063601276
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2020,1064,2020.0,Social Studies,2.822478058872583
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2021,1024,2021.0,ELA,2.5247719244936175
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2021,1024,2021.0,Mathematics,2.415682223903229
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2021,1024,2021.0,Science,2.747288928026417
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2021,1024,2021.0,Social Studies,2.8762894599791
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2022,1125,2022.0,ELA,2.5067020765508157
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2022,1125,2022.0,Mathematics,2.4138634020592415
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2022,1125,2022.0,Science,2.742857464041523
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2022,1125,2022.0,Social Studies,2.8818561277077808
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2023,1028,2023.0,ELA,2.4144699841654833
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2023,1028,2023.0,Mathematics,2.3714011484000745
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2023,1028,2023.0,Science,2.9034004347875615
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2023,1028,2023.0,Social Studies,2.8227043556788503
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2025,930,2025.0,ELA,2.3220488433546853
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2025,930,2025.0,Mathematics,2.046634494434028
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2025,930,2025.0,Science,2.608431451774152
+2.0,Madison Metropolitan,Economic Status,Not Econ Disadv,2025,930,2025.0,Social Studies,2.59532937487784
+2.0,Madison Metropolitan,Gender,Female,2020,808,2020.0,ELA,2.2356107949223603
+2.0,Madison Metropolitan,Gender,Female,2020,808,2020.0,Mathematics,2.017076278151077
+2.0,Madison Metropolitan,Gender,Female,2020,808,2020.0,Science,2.275920060717222
+2.0,Madison Metropolitan,Gender,Female,2020,808,2020.0,Social Studies,2.366644756100589
+2.0,Madison Metropolitan,Gender,Female,2021,774,2021.0,ELA,2.210466783190842
+2.0,Madison Metropolitan,Gender,Female,2021,774,2021.0,Mathematics,2.0181564503102614
+2.0,Madison Metropolitan,Gender,Female,2021,774,2021.0,Science,2.260921399124389
+2.0,Madison Metropolitan,Gender,Female,2021,774,2021.0,Social Studies,2.3636583796190016
+2.0,Madison Metropolitan,Gender,Female,2022,838,2022.0,ELA,2.1471223595183186
+2.0,Madison Metropolitan,Gender,Female,2022,838,2022.0,Mathematics,2.01779602351024
+2.0,Madison Metropolitan,Gender,Female,2022,838,2022.0,Science,2.304494718995448
+2.0,Madison Metropolitan,Gender,Female,2022,838,2022.0,Social Studies,2.3953965253204648
+2.0,Madison Metropolitan,Gender,Female,2023,823,2023.0,ELA,2.121595343021472
+2.0,Madison Metropolitan,Gender,Female,2023,823,2023.0,Mathematics,2.0317168791111184
+2.0,Madison Metropolitan,Gender,Female,2023,823,2023.0,Science,2.4020981178868515
+2.0,Madison Metropolitan,Gender,Female,2023,823,2023.0,Social Studies,2.3421655022882804
+2.0,Madison Metropolitan,Gender,Female,2025,626,2025.0,ELA,2.042523072779666
+2.0,Madison Metropolitan,Gender,Female,2025,626,2025.0,Mathematics,1.7539923325914037
+2.0,Madison Metropolitan,Gender,Female,2025,626,2025.0,Science,2.2127451086034644
+2.0,Madison Metropolitan,Gender,Female,2025,626,2025.0,Social Studies,2.2611153367947896
+2.0,Madison Metropolitan,Gender,Male,2020,835,2020.0,ELA,1.8507511227472029
+2.0,Madison Metropolitan,Gender,Male,2020,835,2020.0,Mathematics,1.9170432960594566
+2.0,Madison Metropolitan,Gender,Male,2020,835,2020.0,Science,2.1888781702655833
+2.0,Madison Metropolitan,Gender,Male,2020,835,2020.0,Social Studies,2.1916633780704298
+2.0,Madison Metropolitan,Gender,Male,2021,778,2021.0,ELA,1.9208212603388464
+2.0,Madison Metropolitan,Gender,Male,2021,778,2021.0,Mathematics,1.9640375613637984
+2.0,Madison Metropolitan,Gender,Male,2021,778,2021.0,Science,2.207204417715481
+2.0,Madison Metropolitan,Gender,Male,2021,778,2021.0,Social Studies,2.2281745955282486
+2.0,Madison Metropolitan,Gender,Male,2022,806,2022.0,ELA,1.9224329012613062
+2.0,Madison Metropolitan,Gender,Male,2022,806,2022.0,Mathematics,1.9420865930968538
+2.0,Madison Metropolitan,Gender,Male,2022,806,2022.0,Science,2.2508912424412864
+2.0,Madison Metropolitan,Gender,Male,2022,806,2022.0,Social Studies,2.2975520562029192
+2.0,Madison Metropolitan,Gender,Male,2023,799,2023.0,ELA,1.8891296798032835
+2.0,Madison Metropolitan,Gender,Male,2023,799,2023.0,Mathematics,1.9062447284568285
+2.0,Madison Metropolitan,Gender,Male,2023,799,2023.0,Science,2.2937155721993947
+2.0,Madison Metropolitan,Gender,Male,2023,799,2023.0,Social Studies,2.2391014597409904
+2.0,Madison Metropolitan,Gender,Male,2025,420,2025.0,ELA,1.9316540668167104
+2.0,Madison Metropolitan,Gender,Male,2025,420,2025.0,Mathematics,1.755818352172519
+2.0,Madison Metropolitan,Gender,Male,2025,420,2025.0,Science,2.2334981618459246
+2.0,Madison Metropolitan,Gender,Male,2025,420,2025.0,Social Studies,2.1752547891360146
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2020,84,2020.0,ELA,2.371031746031746
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2020,84,2020.0,Mathematics,2.4287677192088957
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2020,84,2020.0,Science,2.4378130039894743
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2020,84,2020.0,Social Studies,2.5001803751803755
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2021,138,2021.0,ELA,2.259435954371299
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2021,138,2021.0,Mathematics,2.3469887165667567
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2021,138,2021.0,Science,2.447147518744615
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2021,138,2021.0,Social Studies,2.600210074886799
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2022,91,2022.0,ELA,2.2642743729700254
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2022,91,2022.0,Mathematics,2.3150899824812865
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2022,91,2022.0,Science,2.595119668770343
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2022,91,2022.0,Social Studies,2.6250034531518787
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2023,96,2023.0,ELA,2.1676240426240425
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2023,96,2023.0,Mathematics,2.3841354760527693
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2023,96,2023.0,Science,2.6103872318158032
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2023,96,2023.0,Social Studies,2.4925996309454956
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2025,95,2025.0,ELA,1.8404761904761904
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2025,95,2025.0,Mathematics,1.872222222222222
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2025,95,2025.0,Science,2.125793650793651
+2.0,Madison Metropolitan,Race/Ethnicity,Asian,2025,95,2025.0,Social Studies,2.077380952380952
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2020,245,2020.0,ELA,1.4222758828266033
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2020,245,2020.0,Mathematics,1.3574618939862446
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2020,245,2020.0,Science,1.5054053059960955
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2020,245,2020.0,Social Studies,1.5085417154496168
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2021,192,2021.0,ELA,1.3849366634575346
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2021,192,2021.0,Mathematics,1.3017666268080534
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2021,192,2021.0,Science,1.4545318236039955
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2021,192,2021.0,Social Studies,1.3968444570980068
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2022,217,2022.0,ELA,1.429004726256424
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2022,217,2022.0,Mathematics,1.4025890056153214
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2022,217,2022.0,Science,1.6746885658727764
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2022,217,2022.0,Social Studies,1.6277315619067418
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2023,227,2023.0,ELA,1.3948318727573836
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2023,227,2023.0,Mathematics,1.348180874042943
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2023,227,2023.0,Science,1.5481421515904275
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2023,227,2023.0,Social Studies,1.607883416942978
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2025,220,2025.0,ELA,1.337336080099238
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2025,220,2025.0,Mathematics,1.18694374081371
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2025,220,2025.0,Science,1.4164991839632988
+2.0,Madison Metropolitan,Race/Ethnicity,Black,2025,220,2025.0,Social Studies,1.348653795035374
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2020,342,2020.0,ELA,1.7389837131255894
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2020,342,2020.0,Mathematics,1.6178664351275414
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2020,342,2020.0,Science,1.8689607059224758
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2020,342,2020.0,Social Studies,1.9030601701650425
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2021,309,2021.0,ELA,1.7582385142469088
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2021,309,2021.0,Mathematics,1.686258003551289
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2021,309,2021.0,Science,1.9241274009054452
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2021,309,2021.0,Social Studies,1.9307860346397896
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2022,349,2022.0,ELA,1.6660800334480874
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2022,349,2022.0,Mathematics,1.672998415898267
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2022,349,2022.0,Science,1.9136232338667647
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2022,349,2022.0,Social Studies,1.981933904080215
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2023,383,2023.0,ELA,1.7911274183056933
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2023,383,2023.0,Mathematics,1.7156573465657738
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2023,383,2023.0,Science,2.0366705525628137
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2023,383,2023.0,Social Studies,2.01002643672081
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2025,378,2025.0,ELA,1.678370109422741
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2025,378,2025.0,Mathematics,1.436324377377009
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2025,378,2025.0,Science,1.7597818409660517
+2.0,Madison Metropolitan,Race/Ethnicity,Hispanic,2025,378,2025.0,Social Studies,1.8458617379430777
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2020,121,2020.0,ELA,1.8311887254901962
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2020,121,2020.0,Mathematics,1.93703022875817
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2020,121,2020.0,Science,2.1140436463046757
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2020,121,2020.0,Social Studies,2.0751969537815125
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2021,68,2021.0,ELA,1.91240934990935
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2021,68,2021.0,Mathematics,1.824679487179487
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2021,68,2021.0,Science,2.0883547008547008
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2021,68,2021.0,Social Studies,2.1272435897435895
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2022,87,2022.0,ELA,2.0093230737785674
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2022,87,2022.0,Mathematics,1.9408771544837518
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2022,87,2022.0,Science,2.280829237596155
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2022,87,2022.0,Social Studies,2.3730934479054784
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2023,117,2023.0,ELA,1.999635642135642
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2023,117,2023.0,Mathematics,2.0895794410268094
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2023,117,2023.0,Science,2.420212842712843
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2023,117,2023.0,Social Studies,2.301806086070792
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2025,92,2025.0,ELA,1.760894660894661
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2025,92,2025.0,Mathematics,1.6343434343434344
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2025,92,2025.0,Science,1.9847222222222223
+2.0,Madison Metropolitan,Race/Ethnicity,Two or More,2025,92,2025.0,Social Studies,2.087037037037037
+2.0,Madison Metropolitan,Race/Ethnicity,White,2020,774,2020.0,ELA,2.448840596600264
+2.0,Madison Metropolitan,Race/Ethnicity,White,2020,774,2020.0,Mathematics,2.360190159945749
+2.0,Madison Metropolitan,Race/Ethnicity,White,2020,774,2020.0,Science,2.7300887008699477
+2.0,Madison Metropolitan,Race/Ethnicity,White,2020,774,2020.0,Social Studies,2.8016837869262625
+2.0,Madison Metropolitan,Race/Ethnicity,White,2021,779,2021.0,ELA,2.5516416862506244
+2.0,Madison Metropolitan,Race/Ethnicity,White,2021,779,2021.0,Mathematics,2.4464351092272456
+2.0,Madison Metropolitan,Race/Ethnicity,White,2021,779,2021.0,Science,2.7965665583248698
+2.0,Madison Metropolitan,Race/Ethnicity,White,2021,779,2021.0,Social Studies,2.9080596555660496
+2.0,Madison Metropolitan,Race/Ethnicity,White,2022,785,2022.0,ELA,2.5082618558900283
+2.0,Madison Metropolitan,Race/Ethnicity,White,2022,785,2022.0,Mathematics,2.412568318748532
+2.0,Madison Metropolitan,Race/Ethnicity,White,2022,785,2022.0,Science,2.8554510792927674
+2.0,Madison Metropolitan,Race/Ethnicity,White,2022,785,2022.0,Social Studies,2.9393095106595557
+2.0,Madison Metropolitan,Race/Ethnicity,White,2023,717,2023.0,ELA,2.5322040728779567
+2.0,Madison Metropolitan,Race/Ethnicity,White,2023,717,2023.0,Mathematics,2.4557685263488915
+2.0,Madison Metropolitan,Race/Ethnicity,White,2023,717,2023.0,Science,2.9842773429784972
+2.0,Madison Metropolitan,Race/Ethnicity,White,2023,717,2023.0,Social Studies,2.9013824948656906
+2.0,Madison Metropolitan,Race/Ethnicity,White,2025,718,2025.0,ELA,2.357189086190743
+2.0,Madison Metropolitan,Race/Ethnicity,White,2025,718,2025.0,Mathematics,2.0938729833945247
+2.0,Madison Metropolitan,Race/Ethnicity,White,2025,718,2025.0,Science,2.672297729957044
+2.0,Madison Metropolitan,Race/Ethnicity,White,2025,718,2025.0,Social Studies,2.698111164671267
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2020,96,2020.0,ELA,2.4545454545454546
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2020,96,2020.0,Mathematics,2.2954545454545454
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2020,96,2020.0,Science,2.875
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2020,96,2020.0,Social Studies,2.8863636363636362
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2021,118,2021.0,ELA,2.172727272727273
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2021,118,2021.0,Mathematics,2.109090909090909
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2021,118,2021.0,Science,2.381818181818182
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2021,118,2021.0,Social Studies,2.4545454545454546
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2022,102,2022.0,ELA,2.323809523809524
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2022,102,2022.0,Mathematics,2.4095238095238094
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2022,102,2022.0,Science,2.533333333333333
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2022,102,2022.0,Social Studies,2.8190476190476192
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2023,98,2023.0,ELA,2.2058823529411766
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2023,98,2023.0,Mathematics,2.372549019607843
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2023,98,2023.0,Science,2.6666666666666665
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2023,98,2023.0,Social Studies,2.7450980392156863
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2025,108,2025.0,ELA,2.5353535353535355
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2025,108,2025.0,Mathematics,2.3333333333333335
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2025,108,2025.0,Science,3.0303030303030303
+4.0,Galesville-Ettrick-Trempealeau,All Students,All Students,2025,108,2025.0,Social Studies,2.8686868686868685
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2020,90,2020.0,ELA,2.5714285714285716
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2020,90,2020.0,Mathematics,2.4155844155844157
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2020,90,2020.0,Science,2.987012987012987
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2020,90,2020.0,Social Studies,3.012987012987013
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2021,104,2021.0,ELA,2.340659340659341
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2021,104,2021.0,Mathematics,2.241758241758242
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2021,104,2021.0,Science,2.5274725274725274
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2021,104,2021.0,Social Studies,2.6153846153846154
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2022,90,2022.0,ELA,2.402173913043478
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2022,90,2022.0,Mathematics,2.5217391304347827
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2022,90,2022.0,Science,2.619565217391304
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2022,90,2022.0,Social Studies,2.9565217391304346
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2023,90,2023.0,ELA,2.2857142857142856
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2023,90,2023.0,Mathematics,2.4945054945054945
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2023,90,2023.0,Science,2.769230769230769
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2023,90,2023.0,Social Studies,2.857142857142857
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2025,94,2025.0,ELA,2.6
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2025,94,2025.0,Mathematics,2.4
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2025,94,2025.0,Science,3.088888888888889
+4.0,Galesville-Ettrick-Trempealeau,Disability Status,SwoD,2025,94,2025.0,Social Studies,2.9444444444444446
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Econ Disadv,2021,28,2021.0,ELA,1.9090909090909092
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Econ Disadv,2021,28,2021.0,Mathematics,1.9090909090909092
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Econ Disadv,2021,28,2021.0,Science,2.227272727272727
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Econ Disadv,2021,28,2021.0,Social Studies,1.9090909090909092
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Econ Disadv,2025,25,2025.0,ELA,2.3448275862068964
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Econ Disadv,2025,25,2025.0,Mathematics,2.0344827586206895
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Econ Disadv,2025,25,2025.0,Science,2.793103448275862
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Econ Disadv,2025,25,2025.0,Social Studies,2.5172413793103448
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2020,76,2020.0,ELA,2.4696969696969697
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2020,76,2020.0,Mathematics,2.257575757575758
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2020,76,2020.0,Science,2.8636363636363638
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2020,76,2020.0,Social Studies,2.878787878787879
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2021,90,2021.0,ELA,2.2386363636363638
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2021,90,2021.0,Mathematics,2.159090909090909
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2021,90,2021.0,Science,2.4204545454545454
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2021,90,2021.0,Social Studies,2.590909090909091
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2022,84,2022.0,ELA,2.3875
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2022,84,2022.0,Mathematics,2.4875
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2022,84,2022.0,Science,2.625
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2022,84,2022.0,Social Studies,2.975
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2023,80,2023.0,ELA,2.289156626506024
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2023,80,2023.0,Mathematics,2.4698795180722892
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2023,80,2023.0,Science,2.7710843373493974
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2023,80,2023.0,Social Studies,2.8433734939759034
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2025,83,2025.0,ELA,2.6142857142857143
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2025,83,2025.0,Mathematics,2.4571428571428573
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2025,83,2025.0,Science,3.1285714285714286
+4.0,Galesville-Ettrick-Trempealeau,Economic Status,Not Econ Disadv,2025,83,2025.0,Social Studies,3.0142857142857142
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2020,49,2020.0,ELA,2.7
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2020,49,2020.0,Mathematics,2.4
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2020,49,2020.0,Science,2.875
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2020,49,2020.0,Social Studies,2.925
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2021,58,2021.0,ELA,2.3846153846153846
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2021,58,2021.0,Mathematics,2.173076923076923
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2021,58,2021.0,Science,2.4423076923076925
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2021,58,2021.0,Social Studies,2.5576923076923075
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2022,56,2022.0,ELA,2.5
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2022,56,2022.0,Mathematics,2.5344827586206895
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2022,56,2022.0,Science,2.6551724137931036
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2022,56,2022.0,Social Studies,2.913793103448276
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2023,47,2023.0,ELA,2.3541666666666665
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2023,47,2023.0,Mathematics,2.4166666666666665
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2023,47,2023.0,Science,2.625
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2023,47,2023.0,Social Studies,2.7083333333333335
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2025,47,2025.0,ELA,2.630434782608696
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2025,47,2025.0,Mathematics,2.347826086956522
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2025,47,2025.0,Science,3.0
+4.0,Galesville-Ettrick-Trempealeau,Gender,Female,2025,47,2025.0,Social Studies,2.6956521739130435
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2020,47,2020.0,ELA,2.25
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2020,47,2020.0,Mathematics,2.2083333333333335
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2020,47,2020.0,Science,2.875
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2020,47,2020.0,Social Studies,2.8541666666666665
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2021,60,2021.0,ELA,1.9827586206896552
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2021,60,2021.0,Mathematics,2.0517241379310347
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2021,60,2021.0,Science,2.3275862068965516
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2021,60,2021.0,Social Studies,2.3620689655172415
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2022,46,2022.0,ELA,2.106382978723404
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2022,46,2022.0,Mathematics,2.25531914893617
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2022,46,2022.0,Science,2.382978723404255
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2022,46,2022.0,Social Studies,2.702127659574468
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2023,51,2023.0,ELA,2.074074074074074
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2023,51,2023.0,Mathematics,2.3333333333333335
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2023,51,2023.0,Science,2.7037037037037037
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2023,51,2023.0,Social Studies,2.7777777777777777
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2025,61,2025.0,ELA,2.452830188679245
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2025,61,2025.0,Mathematics,2.3207547169811322
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2025,61,2025.0,Science,3.056603773584906
+4.0,Galesville-Ettrick-Trempealeau,Gender,Male,2025,61,2025.0,Social Studies,3.018867924528302
+4.0,Galesville-Ettrick-Trempealeau,Race/Ethnicity,White,2021,108,2021.0,ELA,2.1262135922330097
+4.0,Galesville-Ettrick-Trempealeau,Race/Ethnicity,White,2021,108,2021.0,Mathematics,2.1067961165048543
+4.0,Galesville-Ettrick-Trempealeau,Race/Ethnicity,White,2021,108,2021.0,Science,2.3592233009708736
+4.0,Galesville-Ettrick-Trempealeau,Race/Ethnicity,White,2021,108,2021.0,Social Studies,2.436893203883495
+4.0,Galesville-Ettrick-Trempealeau,Race/Ethnicity,White,2023,92,,,
+4.0,Galesville-Ettrick-Trempealeau,Race/Ethnicity,White,2025,97,2025.0,ELA,2.5604395604395602
+4.0,Galesville-Ettrick-Trempealeau,Race/Ethnicity,White,2025,97,2025.0,Mathematics,2.3626373626373627
+4.0,Galesville-Ettrick-Trempealeau,Race/Ethnicity,White,2025,97,2025.0,Science,3.0549450549450547
+4.0,Galesville-Ettrick-Trempealeau,Race/Ethnicity,White,2025,97,2025.0,Social Studies,2.89010989010989
+4.0,La Crosse,All Students,All Students,2020,361,2020.0,ELA,2.144821483109564
+4.0,La Crosse,All Students,All Students,2020,361,2020.0,Mathematics,2.022628045177516
+4.0,La Crosse,All Students,All Students,2020,361,2020.0,Science,2.425817455085748
+4.0,La Crosse,All Students,All Students,2020,361,2020.0,Social Studies,2.483417184606209
+4.0,La Crosse,All Students,All Students,2021,429,2021.0,ELA,2.1952440090359553
+4.0,La Crosse,All Students,All Students,2021,429,2021.0,Mathematics,2.077663708401963
+4.0,La Crosse,All Students,All Students,2021,429,2021.0,Science,2.300243107625658
+4.0,La Crosse,All Students,All Students,2021,429,2021.0,Social Studies,2.363043115281921
+4.0,La Crosse,All Students,All Students,2022,395,2022.0,ELA,2.117514953240144
+4.0,La Crosse,All Students,All Students,2022,395,2022.0,Mathematics,2.0549095349095348
+4.0,La Crosse,All Students,All Students,2022,395,2022.0,Science,2.3513689775358873
+4.0,La Crosse,All Students,All Students,2022,395,2022.0,Social Studies,2.3283907780090987
+4.0,La Crosse,All Students,All Students,2023,399,2023.0,ELA,2.3093479442877864
+4.0,La Crosse,All Students,All Students,2023,399,2023.0,Mathematics,2.1563316934835424
+4.0,La Crosse,All Students,All Students,2023,399,2023.0,Science,2.6963779781718413
+4.0,La Crosse,All Students,All Students,2023,399,2023.0,Social Studies,2.591827647057684
+4.0,La Crosse,All Students,All Students,2025,452,2025.0,ELA,2.148856034971737
+4.0,La Crosse,All Students,All Students,2025,452,2025.0,Mathematics,2.033277715980719
+4.0,La Crosse,All Students,All Students,2025,452,2025.0,Science,2.5828514858424447
+4.0,La Crosse,All Students,All Students,2025,452,2025.0,Social Studies,2.499694697381242
+4.0,La Crosse,Disability Status,SwD,2020,21,2020.0,ELA,1.7904040404040404
+4.0,La Crosse,Disability Status,SwD,2020,21,2020.0,Mathematics,1.5353535353535352
+4.0,La Crosse,Disability Status,SwD,2020,21,2020.0,Science,2.0757575757575757
+4.0,La Crosse,Disability Status,SwD,2020,21,2020.0,Social Studies,2.2487373737373737
+4.0,La Crosse,Disability Status,SwD,2021,52,2021.0,ELA,1.3975653975653977
+4.0,La Crosse,Disability Status,SwD,2021,52,2021.0,Mathematics,1.324138824138824
+4.0,La Crosse,Disability Status,SwD,2021,52,2021.0,Science,1.573167573167573
+4.0,La Crosse,Disability Status,SwD,2021,52,2021.0,Social Studies,1.5737373737373739
+4.0,La Crosse,Disability Status,SwD,2022,68,2022.0,ELA,1.3420479302832244
+4.0,La Crosse,Disability Status,SwD,2022,68,2022.0,Mathematics,1.4596949891067539
+4.0,La Crosse,Disability Status,SwD,2022,68,2022.0,Science,1.7181372549019607
+4.0,La Crosse,Disability Status,SwD,2022,68,2022.0,Social Studies,1.673928830791576
+4.0,La Crosse,Disability Status,SwD,2023,43,2023.0,ELA,1.3634920634920633
+4.0,La Crosse,Disability Status,SwD,2023,43,2023.0,Mathematics,1.2047619047619047
+4.0,La Crosse,Disability Status,SwD,2023,43,2023.0,Science,1.5698412698412698
+4.0,La Crosse,Disability Status,SwD,2023,43,2023.0,Social Studies,1.5214285714285714
+4.0,La Crosse,Disability Status,SwD,2025,55,2025.0,ELA,1.4315476190476188
+4.0,La Crosse,Disability Status,SwD,2025,55,2025.0,Mathematics,1.2351190476190477
+4.0,La Crosse,Disability Status,SwD,2025,55,2025.0,Science,1.7470238095238095
+4.0,La Crosse,Disability Status,SwD,2025,55,2025.0,Social Studies,1.5238095238095237
+4.0,La Crosse,Disability Status,SwoD,2020,324,2020.0,ELA,2.239539805233236
+4.0,La Crosse,Disability Status,SwoD,2020,324,2020.0,Mathematics,2.116848102249562
+4.0,La Crosse,Disability Status,SwoD,2020,324,2020.0,Science,2.538390414302823
+4.0,La Crosse,Disability Status,SwoD,2020,324,2020.0,Social Studies,2.719189545276502
+4.0,La Crosse,Disability Status,SwoD,2021,377,2021.0,ELA,2.3293602832040734
+4.0,La Crosse,Disability Status,SwoD,2021,377,2021.0,Mathematics,2.1611736010548612
+4.0,La Crosse,Disability Status,SwoD,2021,377,2021.0,Science,2.5064659960073707
+4.0,La Crosse,Disability Status,SwoD,2021,377,2021.0,Social Studies,2.610682116541838
+4.0,La Crosse,Disability Status,SwoD,2022,327,2022.0,ELA,2.21877609629147
+4.0,La Crosse,Disability Status,SwoD,2022,327,2022.0,Mathematics,2.129640052638287
+4.0,La Crosse,Disability Status,SwoD,2022,327,2022.0,Science,2.4346251157851246
+4.0,La Crosse,Disability Status,SwoD,2022,327,2022.0,Social Studies,2.5842229650661306
+4.0,La Crosse,Disability Status,SwoD,2023,356,2023.0,ELA,2.284729476301305
+4.0,La Crosse,Disability Status,SwoD,2023,356,2023.0,Mathematics,2.1017632757283096
+4.0,La Crosse,Disability Status,SwoD,2023,356,2023.0,Science,2.590349173187702
+4.0,La Crosse,Disability Status,SwoD,2023,356,2023.0,Social Studies,2.55855058747122
+4.0,La Crosse,Disability Status,SwoD,2025,397,2025.0,ELA,2.203109038418832
+4.0,La Crosse,Disability Status,SwoD,2025,397,2025.0,Mathematics,2.0251933895921237
+4.0,La Crosse,Disability Status,SwoD,2025,397,2025.0,Science,2.5702281812125247
+4.0,La Crosse,Disability Status,SwoD,2025,397,2025.0,Social Studies,2.4798259493670884
+4.0,La Crosse,Economic Status,Econ Disadv,2020,129,2020.0,ELA,1.8922951876646181
+4.0,La Crosse,Economic Status,Econ Disadv,2020,129,2020.0,Mathematics,1.636955388498683
+4.0,La Crosse,Economic Status,Econ Disadv,2020,129,2020.0,Science,2.14358926872988
+4.0,La Crosse,Economic Status,Econ Disadv,2020,129,2020.0,Social Studies,2.053253950834065
+4.0,La Crosse,Economic Status,Econ Disadv,2021,170,2021.0,ELA,1.8954139039582079
+4.0,La Crosse,Economic Status,Econ Disadv,2021,170,2021.0,Mathematics,1.7927416114124974
+4.0,La Crosse,Economic Status,Econ Disadv,2021,170,2021.0,Science,2.013451878641752
+4.0,La Crosse,Economic Status,Econ Disadv,2021,170,2021.0,Social Studies,2.0520868020868024
+4.0,La Crosse,Economic Status,Econ Disadv,2022,191,2022.0,ELA,1.7775641025641025
+4.0,La Crosse,Economic Status,Econ Disadv,2022,191,2022.0,Mathematics,1.8557692307692308
+4.0,La Crosse,Economic Status,Econ Disadv,2022,191,2022.0,Science,2.1508097165991904
+4.0,La Crosse,Economic Status,Econ Disadv,2022,191,2022.0,Social Studies,2.0227564102564104
+4.0,La Crosse,Economic Status,Econ Disadv,2023,144,2023.0,ELA,1.9666540076376142
+4.0,La Crosse,Economic Status,Econ Disadv,2023,144,2023.0,Mathematics,1.8202343700550667
+4.0,La Crosse,Economic Status,Econ Disadv,2023,144,2023.0,Science,2.277813765902905
+4.0,La Crosse,Economic Status,Econ Disadv,2023,144,2023.0,Social Studies,2.242545024790412
+4.0,La Crosse,Economic Status,Econ Disadv,2025,201,2025.0,ELA,1.8010738220633273
+4.0,La Crosse,Economic Status,Econ Disadv,2025,201,2025.0,Mathematics,1.6244200244200242
+4.0,La Crosse,Economic Status,Econ Disadv,2025,201,2025.0,Science,2.1249349684132293
+4.0,La Crosse,Economic Status,Econ Disadv,2025,201,2025.0,Social Studies,2.012176329417709
+4.0,La Crosse,Economic Status,Not Econ Disadv,2020,232,2020.0,ELA,2.329984774899784
+4.0,La Crosse,Economic Status,Not Econ Disadv,2020,232,2020.0,Mathematics,2.30058973172988
+4.0,La Crosse,Economic Status,Not Econ Disadv,2020,232,2020.0,Science,2.606691335183472
+4.0,La Crosse,Economic Status,Not Econ Disadv,2020,232,2020.0,Social Studies,2.756888440860215
+4.0,La Crosse,Economic Status,Not Econ Disadv,2021,259,2021.0,ELA,2.397869445544967
+4.0,La Crosse,Economic Status,Not Econ Disadv,2021,259,2021.0,Mathematics,2.2620225757796915
+4.0,La Crosse,Economic Status,Not Econ Disadv,2021,259,2021.0,Science,2.5004910649123175
+4.0,La Crosse,Economic Status,Not Econ Disadv,2021,259,2021.0,Social Studies,2.5583543591133724
+4.0,La Crosse,Economic Status,Not Econ Disadv,2022,204,2022.0,ELA,2.3261309341078866
+4.0,La Crosse,Economic Status,Not Econ Disadv,2022,204,2022.0,Mathematics,2.324513547917803
+4.0,La Crosse,Economic Status,Not Econ Disadv,2022,204,2022.0,Science,2.6298196382795056
+4.0,La Crosse,Economic Status,Not Econ Disadv,2022,204,2022.0,Social Studies,2.6176890400212005
+4.0,La Crosse,Economic Status,Not Econ Disadv,2023,255,2023.0,ELA,2.529366633057839
+4.0,La Crosse,Economic Status,Not Econ Disadv,2023,255,2023.0,Mathematics,2.3774010686135254
+4.0,La Crosse,Economic Status,Not Econ Disadv,2023,255,2023.0,Science,2.964887361363586
+4.0,La Crosse,Economic Status,Not Econ Disadv,2023,255,2023.0,Social Studies,2.837611405903869
+4.0,La Crosse,Economic Status,Not Econ Disadv,2025,251,2025.0,ELA,2.339160981156595
+4.0,La Crosse,Economic Status,Not Econ Disadv,2025,251,2025.0,Mathematics,2.1709104938271606
+4.0,La Crosse,Economic Status,Not Econ Disadv,2025,251,2025.0,Science,2.750385802469136
+4.0,La Crosse,Economic Status,Not Econ Disadv,2025,251,2025.0,Social Studies,2.6306245938921378
+4.0,La Crosse,Gender,Female,2020,182,2020.0,ELA,2.326262952015964
+4.0,La Crosse,Gender,Female,2020,182,2020.0,Mathematics,1.9838371705445264
+4.0,La Crosse,Gender,Female,2020,182,2020.0,Science,2.4824015396304553
+4.0,La Crosse,Gender,Female,2020,182,2020.0,Social Studies,2.5069926274745553
+4.0,La Crosse,Gender,Female,2021,221,2021.0,ELA,2.3799517806482386
+4.0,La Crosse,Gender,Female,2021,221,2021.0,Mathematics,2.102094631066255
+4.0,La Crosse,Gender,Female,2021,221,2021.0,Science,2.220201052572117
+4.0,La Crosse,Gender,Female,2021,221,2021.0,Social Studies,2.3627404778057763
+4.0,La Crosse,Gender,Female,2022,191,2022.0,ELA,2.2038278603495995
+4.0,La Crosse,Gender,Female,2022,191,2022.0,Mathematics,2.0394106481063003
+4.0,La Crosse,Gender,Female,2022,191,2022.0,Science,2.367919017919018
+4.0,La Crosse,Gender,Female,2022,191,2022.0,Social Studies,2.2877280768585115
+4.0,La Crosse,Gender,Female,2023,199,2023.0,ELA,2.2547383512544803
+4.0,La Crosse,Gender,Female,2023,199,2023.0,Mathematics,1.9775094726062465
+4.0,La Crosse,Gender,Female,2023,199,2023.0,Science,2.4995499231950844
+4.0,La Crosse,Gender,Female,2023,199,2023.0,Social Studies,2.391430107526882
+4.0,La Crosse,Gender,Male,2020,179,2020.0,ELA,1.9442709882049758
+4.0,La Crosse,Gender,Male,2020,179,2020.0,Mathematics,1.9982006731003163
+4.0,La Crosse,Gender,Male,2020,179,2020.0,Science,2.3140437605312716
+4.0,La Crosse,Gender,Male,2020,179,2020.0,Social Studies,2.3713208049013135
+4.0,La Crosse,Gender,Male,2021,208,2021.0,ELA,1.9709754797441366
+4.0,La Crosse,Gender,Male,2021,208,2021.0,Mathematics,2.1254667596085506
+4.0,La Crosse,Gender,Male,2021,208,2021.0,Science,2.332985826362692
+4.0,La Crosse,Gender,Male,2021,208,2021.0,Social Studies,2.379760879667596
+4.0,La Crosse,Gender,Male,2022,204,2022.0,ELA,1.978273299028016
+4.0,La Crosse,Gender,Male,2022,204,2022.0,Mathematics,2.1649844190216
+4.0,La Crosse,Gender,Male,2022,204,2022.0,Science,2.4402449266419857
+4.0,La Crosse,Gender,Male,2022,204,2022.0,Social Studies,2.38907590051458
+4.0,La Crosse,Gender,Male,2023,200,2023.0,ELA,2.3728517647340484
+4.0,La Crosse,Gender,Male,2023,200,2023.0,Mathematics,2.34563359030247
+4.0,La Crosse,Gender,Male,2023,200,2023.0,Science,2.911925744488623
+4.0,La Crosse,Gender,Male,2023,200,2023.0,Social Studies,2.8087842278203725
+4.0,La Crosse,Gender,Male,2025,230,2025.0,ELA,2.018845893494303
+4.0,La Crosse,Gender,Male,2025,230,2025.0,Mathematics,1.8807438772698681
+4.0,La Crosse,Gender,Male,2025,230,2025.0,Science,2.504142037981462
+4.0,La Crosse,Gender,Male,2025,230,2025.0,Social Studies,2.3643304461387262
+4.0,La Crosse,Race/Ethnicity,Two or More,2021,21,2021.0,ELA,1.9806644880174291
+4.0,La Crosse,Race/Ethnicity,Two or More,2021,21,2021.0,Mathematics,1.7470043572984748
+4.0,La Crosse,Race/Ethnicity,Two or More,2021,21,2021.0,Science,2.1353485838779958
+4.0,La Crosse,Race/Ethnicity,Two or More,2021,21,2021.0,Social Studies,2.1968954248366015
+4.0,La Crosse,Race/Ethnicity,Two or More,2023,25,2023.0,ELA,1.9833333333333334
+4.0,La Crosse,Race/Ethnicity,Two or More,2023,25,2023.0,Mathematics,1.7375
+4.0,La Crosse,Race/Ethnicity,Two or More,2023,25,2023.0,Science,1.9541666666666666
+4.0,La Crosse,Race/Ethnicity,Two or More,2023,25,2023.0,Social Studies,1.8
+4.0,La Crosse,Race/Ethnicity,Two or More,2025,33,2025.0,ELA,2.0097222222222224
+4.0,La Crosse,Race/Ethnicity,Two or More,2025,33,2025.0,Mathematics,1.836111111111111
+4.0,La Crosse,Race/Ethnicity,Two or More,2025,33,2025.0,Science,2.3222222222222224
+4.0,La Crosse,Race/Ethnicity,Two or More,2025,33,2025.0,Social Studies,2.154166666666667
+4.0,La Crosse,Race/Ethnicity,White,2020,258,2020.0,ELA,2.343268470178769
+4.0,La Crosse,Race/Ethnicity,White,2020,258,2020.0,Mathematics,2.202672572905131
+4.0,La Crosse,Race/Ethnicity,White,2020,258,2020.0,Science,2.6227115962664134
+4.0,La Crosse,Race/Ethnicity,White,2020,258,2020.0,Social Studies,2.8968463282748993
+4.0,La Crosse,Race/Ethnicity,White,2021,322,2021.0,ELA,2.289475960944259
+4.0,La Crosse,Race/Ethnicity,White,2021,322,2021.0,Mathematics,2.142511432455815
+4.0,La Crosse,Race/Ethnicity,White,2021,322,2021.0,Science,2.4923334569274505
+4.0,La Crosse,Race/Ethnicity,White,2021,322,2021.0,Social Studies,2.613483330182139
+4.0,La Crosse,Race/Ethnicity,White,2022,303,2022.0,ELA,2.1382020479217423
+4.0,La Crosse,Race/Ethnicity,White,2022,303,2022.0,Mathematics,2.2067917771068686
+4.0,La Crosse,Race/Ethnicity,White,2022,303,2022.0,Science,2.533639494833525
+4.0,La Crosse,Race/Ethnicity,White,2022,303,2022.0,Social Studies,2.6738521277290843
+4.0,La Crosse,Race/Ethnicity,White,2023,283,2023.0,ELA,2.4046582535914744
+4.0,La Crosse,Race/Ethnicity,White,2023,283,2023.0,Mathematics,2.20222005957929
+4.0,La Crosse,Race/Ethnicity,White,2023,283,2023.0,Science,2.7835390509348104
+4.0,La Crosse,Race/Ethnicity,White,2023,283,2023.0,Social Studies,2.742679511905645
+4.0,La Crosse,Race/Ethnicity,White,2025,300,2025.0,ELA,2.220722650791224
+4.0,La Crosse,Race/Ethnicity,White,2025,300,2025.0,Mathematics,2.009277618056244
+4.0,La Crosse,Race/Ethnicity,White,2025,300,2025.0,Science,2.5924556359670863
+4.0,La Crosse,Race/Ethnicity,White,2025,300,2025.0,Social Studies,2.53145207317804
